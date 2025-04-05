@@ -1,0 +1,71 @@
+📞 Call Center Performance Dashboard
+A comprehensive Power BI dashboard that analyzes call center performance using metrics such as call volume, agent efficiency, and response trends. This project aims to provide actionable insights for improving operational efficiency and customer satisfaction.
+
+📂 Dataset
+Source: 01 Call-Center-Dataset.xlsx
+
+Content: Includes records of incoming calls, call durations, agent handling, wait times, outcomes, and time-based breakdowns.
+
+The dataset has been cleaned and used to model performance insights at the agent and team levels.
+
+📊 Key Metrics Tracked
+Total Calls Received, Answered, and Abandoned
+
+Average Speed of Answer (ASA)
+
+Agent Handling Time & Occupancy
+
+Call Distribution by Hour and Day
+
+Agent-wise and Team-wise Performance
+
+Abandon Rate and Call Wait Time
+
+📈 Dashboard Features
+This Power BI report includes:
+
+KPI Summary Cards – Track high-level performance indicators like answered calls and average response time.
+
+Time Trend Visuals – Understand peak periods by hour/day to optimize staffing.
+
+Agent Performance Matrix – Compare agents based on handling time, call volume, and customer outcomes.
+
+Abandoned Calls Insights – Identify patterns in dropped calls to improve customer service.
+
+Interactive Filters – Drill down by team, day, or specific time intervals.
+
+🧠 Insights & Analysis
+Key takeaways from the report:
+
+Peak call times typically occur during mid-morning and early evening.
+
+A few agents consistently handle more calls while maintaining shorter durations—ideal for modeling best practices.
+
+Higher abandon rates were observed during certain time blocks with low staffing.
+
+Speed of answer significantly impacts customer drop-off.
+
+These insights can guide staffing schedules, training focus, and process improvements.
+
+🚀 How to Use
+Download the Power BI report file: call centre.pbix
+
+Open it in Power BI Desktop (free from Microsoft).
+
+Interact with filters and visuals to explore the data.
+
+Optionally, connect to a refreshed dataset for ongoing monitoring.
+
+🛠 Tools Used
+Power BI Desktop
+
+Microsoft Excel
+
+DAX for calculated fields and KPIs
+
+📌 Possible Improvements
+Integrate real-time data with Power BI Service or APIs
+
+Add sentiment analysis using call transcripts (if available)
+
+Automate monthly reports with Power BI scheduled refresh
